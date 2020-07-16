@@ -1,0 +1,23 @@
+# virtualenv 
+venv/
+
+# compiled file
+**/__pycache__/
+*.pyc
+**/dist/
+
+# packages
+**/node_modules/
+
+# locked files
+*-lock.json
+
+# cache files
+.cache/
+
+# idea config file
+.ycm_extra_config.py
+
+# swap file
+*.swp
+*.swo
