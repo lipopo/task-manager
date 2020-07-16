@@ -4,3 +4,6 @@ invoke
 # backend application framework
 sanic
 
+# orm struct
+peewee
+
